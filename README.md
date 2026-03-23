@@ -14,8 +14,7 @@ This project is developed as part of my software development work. It focuses on
 - API integration
 - Responsive design
 
-## 📸 Screenshots
-(Add screenshots here)
+
 
 ## ⚙️ How to Run
 1. Clone the repository
