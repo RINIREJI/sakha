@@ -1,4 +1,4 @@
-# DRIP Project
+# Sakha Project
 
 ## 📌 Overview
 This project is developed as part of my software development work. It focuses on building a scalable and user-friendly application.
